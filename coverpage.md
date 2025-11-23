@@ -1,7 +1,5 @@
 <!-- ./coverpage.md -->
 
-# Welcome from Pro-Thesmos-HQ
-
 <h1 id="cover-heading">
   Marvellous Pro Documentation Site
 </h1>
