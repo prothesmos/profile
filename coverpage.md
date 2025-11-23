@@ -9,6 +9,6 @@
 - Some may be publics, but some may be privates.
 
 <div align="ltr">
-  <img alt="Cover Photo" src="https://upld.zone.id/uploads/3uiqk27iq/favicon.webp" width="90%">
+  <img alt="Cover Photo" src="https://upld.zone.id/uploads/3uiqk27iq/favicon.webp">
   <a href="https://prothesmos.github.io" rel="me">@prothesmos</a>
 </div>
